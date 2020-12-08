@@ -8,4 +8,5 @@ shemkir shemkir shemkir shemkir shemkir shemkir sghemkir sehmkir shemkir shemkir
 QWERTYUIASDFGHJKZXCVBNMQWERTYUIOASDFGHJKLZXCVBNM
 merge ve fetch nedir onu oyrenek
 ilk deyisiklik
+ikinci deyisiklik
 
